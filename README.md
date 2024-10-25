@@ -1,2 +1,1 @@
-# SnowRider3D
-Snow Rider
+# Snow-Rider3D
